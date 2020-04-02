@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista dysków-->
+<dysk>
+  <dysk>
+    <Nazwa>240 GB SSD</Nazwa>
+    <CenaD>1292</CenaD>
+  </dysk>
+  <dysk>
+    <Nazwa>500 GB SATA</Nazwa>
+    <CenaD>1692</CenaD>
+  </dysk>
+  <dysk>
+    <Nazwa>1000 GB SATA</Nazwa>
+    <CenaD>2192</CenaD>
+  </dysk>
+</dysk>

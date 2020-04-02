@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista monitorów-->
+<monitors>
+  <monitor>
+    <Marka>Samsung</Marka>
+    <Cena>123,44</Cena>
+    <Przekatna>32</Przekatna>
+  </monitor>
+  <monitor>
+    <Marka>Lenovo</Marka>
+    <Cena>659,99</Cena>
+    <Przekatna>12</Przekatna>
+  </monitor>
+  <monitor>
+    <Marka>Predator</Marka>
+    <Cena>233,12</Cena>
+    <Przekatna>9</Przekatna>
+  </monitor>
+</monitors>

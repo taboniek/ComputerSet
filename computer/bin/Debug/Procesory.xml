@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista procesorów-->
+<procesor>
+  <procesor>
+    <ProcesorP>Intel</ProcesorP>
+    <CenaP>2999,99</CenaP>
+  </procesor>
+  <procesor>
+    <ProcesorP>Pitiator</ProcesorP>
+    <CenaP>11,11</CenaP>
+  </procesor>
+</procesor>
